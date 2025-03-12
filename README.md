@@ -1,5 +1,3 @@
-# 🚀 Kunj Patel 
-
 **`Data Scientist | Machine Learning Enthusiast`**
 
 Welcome to my GitHub! I'm a Data Scientist passionate about leveraging machine learning and statistical analysis to solve real-world problems. I have experience working with predictive modeling, data visualization, and automation.
