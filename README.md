@@ -26,6 +26,7 @@ Welcome to my GitHub! I'm a Data Scientist passionate about leveraging machine l
 
 🎓 **Arizona State University** *(Aug 2022 - Dec 2024)*  
 **B.S. in Data Science**
+
 ---
 
 ## 📊 GitHub Stats
