@@ -1,6 +1,6 @@
 **`Data Scientist | Machine Learning Enthusiast`**
 
-Welcome to my GitHub! I'm a Data Scientist passionate about leveraging machine learning and statistical analysis to solve real-world problems. I have experience working with predictive modeling, data visualization, and automation.
+Welcome to my GitHub! I'm a Data Scientist thats a big fan of FOSS, and does stuff.
 
 🌐 **Website**: [kunjml.com](https://www.kunjml.com/)  
 🔗 **LinkedIn**: [linkedin.com/in/kunj-patel7](https://linkedin.com/in/kunj-patel7)  
