@@ -1,6 +1,6 @@
 **`Data Scientist | Machine Learning Enthusiast`**
 
-Welcome to my GitHub! I'm a Data Scientist thats a big fan of FOSS, and does stuff.
+Welcome to my GitHub! I'm a Data Scientist thats a big fan of FOSS.
 
 🌐 **Website**: [kunjml.com](https://www.kunjml.com/)  
 🔗 **LinkedIn**: [linkedin.com/in/kunj-patel7](https://linkedin.com/in/kunj-patel7)  
