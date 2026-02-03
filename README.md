@@ -1,4 +1,4 @@
-**`Data Scientist | Machine Learning Enthusiast`**
+**`Data Scientist`**
 
 Welcome to my GitHub! I'm a Data Scientist thats a big fan of FOSS.
 
