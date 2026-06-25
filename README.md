@@ -10,7 +10,7 @@ Data scientist, FOSS enthusiast.
 
 ## Programming & Tools
 
-Python · R · SQL · C++ · Power BI · Git · Linux · Jupyter
+Python · R · SQL · C++ · Git · Linux · Jupyter
 
 ---
 
